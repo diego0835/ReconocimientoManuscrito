@@ -1,4 +1,4 @@
-# Handwritten Text Recognition with TensorFlow
+# Reconocimiento de Texto Manuscrito con TensorFlow
 
 Sistema de reconocimiento de texto escrito a mano (HTR) implementado con TensorFlow (TF) y entrenado en el conjunto de datos HTR fuera de línea de IAM. Este modelo de Red Neural (NN) reconoce el texto contenido en las imágenes de palabras segmentadas.
 
